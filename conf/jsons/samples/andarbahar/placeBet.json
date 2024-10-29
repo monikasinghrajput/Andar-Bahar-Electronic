@@ -1,0 +1,14 @@
+{
+  "ClientId": "20000181|91205|228000",
+  "ClientIP": "157.50.61.87",
+  "CurrentPlayerToken": "55b25e05-4cf1-4a1a-99a4-d567f4598ce0",
+  "MessageType": "PlaceBet",
+  "destination": "player",
+  "gameType": "andarbahar",
+  "TableId": "228000",
+  "roundId": 1884924689,
+  "BetsList": {
+    "BaharBet": 1
+  },
+  "SideBets": {}
+}

@@ -1,0 +1,16 @@
+{
+  "TableId": "228000",
+  "gameType": "AndarBahar",
+  "CardName": "7s",
+  "destination": "player",
+  "CardHand": "Andar",
+  "CardValue": 7,
+  "physicalTableId": 228000,
+  "timeStamp": "2023-03-27 11:18:43:568",
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "RoundTripStartTime": 1679915923568,
+  "roundId": 1884894560,
+  "CardHandValue": 0,
+  "MessageType": "Card"
+}

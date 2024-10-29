@@ -1,0 +1,349 @@
+{
+  "0": {
+    "name": "lobby",
+    "server_name": "Lobby",
+    "legacy": false
+  },
+  "1": {
+    "name": "blackjack",
+    "server_name": "Blackjack",
+    "legacy": true,
+    "redirect_to": "blackjack",
+    "evo_game_type": "blackjackez"
+  },
+  "2": {
+    "name": "baccarat",
+    "server_name": "Baccarat",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "baccaratez"
+  },
+  "3": {
+    "name": "roulette",
+    "server_name": "Roulette",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "rouletteez"
+  },
+  "4": {
+    "name": "lottery",
+    "server_name": "Lottery",
+    "legacy": true,
+    "redirect_to": "lottery",
+    "evo_game_type": "betonnumbers"
+  },
+  "5": {
+    "name": "hbj",
+    "server_name": "HybridBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "6": {
+    "name": "keno",
+    "server_name": "Keno",
+    "legacy": true,
+    "redirect_to": "keno"
+  },
+  "7": {
+    "name": "automated_roulette",
+    "server_name": "AutomatedRoulette",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "rouletteez"
+  },
+  "8": {
+    "name": "wheel_of_dice",
+    "server_name": "WheelOfDice",
+    "legacy": true,
+    "redirect_to": "wheel_of_dice"
+  },
+  "9": {
+    "name": "sedie",
+    "server_name": "Sedie",
+    "legacy": true,
+    "redirect_to": "sedie"
+  },
+  "10": {
+    "name": "american_blackjack",
+    "server_name": "AmericanBlackJack",
+    "legacy": true,
+    "redirect_to": "blackjack",
+    "evo_game_type": "americanblackjackez"
+  },
+  "11": {
+    "name": "ahbj",
+    "server_name": "AmericanHybridBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack"
+  },
+  "12": {
+    "name": "unlimited_blackjack",
+    "server_name": "UnlimitedBlackjack",
+    "legacy": true,
+    "redirect_to": "blackjack",
+    "evo_game_type": "unlimitedblackjack"
+  },
+  "13": {
+    "name": "lucky7",
+    "server_name": "Lucky7",
+    "legacy": false,
+    "redirect_to": "lucky7",
+    "evo_game_type": "lucky7"
+  },
+  "14": {
+    "name": "sicbo",
+    "server_name": "Sicbo",
+    "legacy": false,
+    "redirect_to": "sicbo",
+    "evo_game_type": "sicboez"
+  },
+  "15": {
+    "name": "casino_holdem",
+    "server_name": "CasinoHoldem",
+    "legacy": true,
+    "redirect_to": "casino_holdem",
+    "evo_game_type": "holdemez"
+  },
+  "16": {
+    "name": "Bet_On_Teen_Patti",
+    "server_name": "BetOnTeenPatti",
+    "legacy": true,
+    "redirect_to": "betonteenpatti",
+    "evo_game_type": "betonteenpatti"
+  },
+  "17": {
+    "name": "threecardpoker",
+    "server_name": "ThreeCardPoker",
+    "legacy": true,
+    "redirect_to": "threecardpoker",
+    "evo_game_type": "tcpez"
+  },
+  "18": {
+    "name": "roulettejackpot",
+    "server_name": "RouletteJackpot",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "rouletteez"
+  },
+  "19": {
+    "name": "32cards",
+    "server_name": "32cards",
+    "legacy": false,
+    "redirect_to": "32cards",
+    "evo_game_type": "32cards"
+  },
+  "20": {
+    "name": "baccarat_ko",
+    "server_name": "BaccaratKO",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "baccaratez"
+  },
+  "21": {
+    "name": "baccarat_super_six",
+    "server_name": "BaccaratSuperSix",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "baccaratez"
+  },
+  "22": {
+    "name": "baccarat_multi_seat",
+    "server_name": "BaccaratMultiSeat",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "23": {
+    "name": "baccarat_insurance",
+    "server_name": "BaccaraInsurance",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "24": {
+    "name": "baccarat_dragon_tiger",
+    "server_name": "BaccaraDragonTiger",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "dragontigerez"
+  },
+  "25": {
+    "name": "baccarat_no_commission",
+    "server_name": "BaccaraNoCommission",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "26": {
+    "name": "baccarat_dragon_bonus",
+    "server_name": "BaccaraDragonBonus",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "baccaratez"
+  },
+  "27": {
+    "name": "baccarat_queenco",
+    "server_name": "BaccaratQueenco",
+    "legacy": true,
+    "redirect_to": "baccarat",
+    "evo_game_type": "baccaratez"
+  },
+  "28": {
+    "name": "baccarat_punto_banco",
+    "server_name": "BaccaratPuntoBanco",
+    "legacy": true,
+    "redirect_to": "baccarat"
+  },
+  "29": {
+    "name": "roulette_portomaso",
+    "server_name": "RoulettePortomaso",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "rouletteez"
+  },
+  "30": {
+    "name": "bet_on_roulette",
+    "server_name": "BetOnRoulette",
+    "legacy": false,
+    "redirect_to": "bet_on_roulette",
+    "evo_game_type": ""
+  },
+  "31": {
+    "name": "american_roulette",
+    "server_name": "AmericanRoulette",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "americanrouletteez"
+  },
+  "32": {
+    "name": "american_auto_roulette",
+    "server_name": "AmericanAutoRoulette",
+    "legacy": false,
+    "redirect_to": "roulette",
+    "evo_game_type": "americanrouletteez"
+  },
+  "33": {
+    "name": "americanroulettejackpot",
+    "server_name": "AmericanRouletteJackpot",
+    "legacy": true,
+    "redirect_to": "roulette"
+  },
+  "34": {
+    "name": "lottery_oms",
+    "server_name": "LotteryOMS",
+    "legacy": false,
+    "redirect_to": "lotterytv",
+    "evo_game_type": "betonnumbers"
+  },
+  "35": {
+    "name": "american_ott_roulette",
+    "server_name": "AmericanOTTRoulette",
+    "legacy": true,
+    "redirect_to": "roulette",
+    "evo_game_type": "americanrouletteez"
+  },
+  "36": {
+    "name": "keno_oms",
+    "server_name": "KenoOMS",
+    "legacy": true,
+    "redirect_to": "keno"
+  },
+  "37": {
+    "name": "Bet505",
+    "server_name": "Bet505",
+    "legacy": false,
+    "redirect_to": "bet505",
+    "evo_game_type": "bet505"
+  },
+  "38": {
+    "name": "andarbahar",
+    "server_name": "andarbahar",
+    "legacy": false,
+    "redirect_to": "andarbahar",
+    "evo_game_type": "andarbaharez"
+  },
+  "39": {
+    "name": "OTTAndarBahar",
+    "server_name": "OTTAndarBahar",
+    "legacy": false,
+    "redirect_to": "andarbahar",
+    "evo_game_type": "andarbaharez"
+  },
+  "40": {
+    "name": "GoldenBalls",
+    "server_name": "GoldenBalls",
+    "legacy": false,
+    "redirect_to": "goldenballs",
+    "evo_game_type": "goldenballs"
+  },
+  "43": {
+    "name": "OneDayTeenPatti",
+    "server_name": "onedayteenpatti",
+    "legacy": false,
+    "redirect_to": "onedayteenpatti"
+  },
+  "45": {
+    "name": "CricketWar",
+    "server_name": "cricketwar",
+    "legacy": false,
+    "redirect_to": "cricketwar",
+    "evo_game_type": "cricketwar"
+  },
+  "46": {
+    "name": "blackjack_salon_prive",
+    "server_name": "BlackJackSalonPrive",
+    "legacy": false,
+    "redirect_to": "blackjack",
+    "evo_game_type": "blackjackez"
+  },
+  "47": {
+    "name": "DreamCatcherRetail",
+    "server_name": "dreamcatcher_retail",
+    "legacy": false,
+    "redirect_to": "dreamcatcher_retail"
+  },
+  "48": {
+    "name": "RNGRoulette",
+    "server_name": "RngRoulette",
+    "legacy": true,
+    "redirect_to": "rng_roulette",
+    "evo_game_type": "ezdealerroulette"
+  },
+  "50": {
+    "name": "OneDayTeenPatti_BackAndLay",
+    "server_name": "onedayteenpatti_backandlay",
+    "legacy": false,
+    "redirect_to": "onedayteenpatti",
+    "evo_game_type": "onedayteenpatti"
+  },
+  "51": {
+    "name": "blackjack_video_chat",
+    "server_name": "BlackJackVideoChat",
+    "legacy": false,
+    "redirect_to": "blackjack",
+    "evo_game_type": "videoblackjackez"
+  },
+  "52": {
+    "name": "sicbo_multipliers",
+    "server_name": "Sicbo",
+    "legacy": false,
+    "redirect_to": "sicbo",
+    "evo_game_type": "sicboez"
+  },
+  "53": {
+    "name": "RoyalPoker",
+    "server_name": "RoyalPoker",
+    "legacy": false,
+    "redirect_to": "royalpoker",
+    "evo_game_type": "royalpoker"
+  },
+  "54": {
+    "name": "ultimate_roulette",
+    "server_name": "UltimateRoulette",
+    "legacy": false,
+    "redirect_to": "roulette"
+  },
+  "55": {
+    "name": "UltimateAndarBahar",
+    "server_name": "UltimateAndarBahar",
+    "legacy": false,
+    "redirect_to": "andarbahar"
+  }
+}

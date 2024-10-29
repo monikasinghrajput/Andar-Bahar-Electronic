@@ -1,0 +1,1147 @@
+{
+  "TableId": "228000",
+  "gameType": "AndarBahar",
+  "destination": "player",
+  "Statistics": {
+    "JokerStatistics": {
+      "Bahar": 62.5,
+      "Andar": 37.5
+    },
+    "winPercentages": {
+      "Bahar": 53,
+      "Andar": 47
+    },
+    "lastWinners": [
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Bahar",
+      "Andar",
+      "Bahar",
+      "Andar",
+      "Bahar"
+    ],
+    "lastJokers": [
+      "Jh",
+      "Ac",
+      "7s",
+      "5s",
+      "5s",
+      "Ah",
+      "Ac",
+      "7h",
+      "Js",
+      "Qs",
+      "9s",
+      "7s",
+      "Ad",
+      "3d",
+      "Jh",
+      "Ad",
+      "Kc",
+      "6c",
+      "5d",
+      "7s",
+      "Jd",
+      "3h",
+      "Jh",
+      "7s",
+      "6h",
+      "Qd",
+      "6s",
+      "Ks",
+      "6h",
+      "Ad",
+      "Td",
+      "2c",
+      "8c",
+      "5c",
+      "7s",
+      "Jh",
+      "8h",
+      "Ad",
+      "Jd",
+      "Kc",
+      "Jh",
+      "Jc",
+      "6c",
+      "2h",
+      "Qs",
+      "9s",
+      "9c",
+      "4s",
+      "Kc",
+      "Td",
+      "6d",
+      "9s",
+      "Ad",
+      "5s",
+      "Td",
+      "3s",
+      "9h",
+      "Jd",
+      "Kh",
+      "3h",
+      "7h",
+      "7d",
+      "7s",
+      "Td",
+      "2h",
+      "5h",
+      "Qd",
+      "7d",
+      "Ks",
+      "7s",
+      "3h",
+      "3s",
+      "Jc",
+      "2h",
+      "Ts",
+      "As",
+      "Kd",
+      "Ac",
+      "3c",
+      "Ah",
+      "9h",
+      "Ac",
+      "Th",
+      "2h",
+      "3d",
+      "9h",
+      "3d",
+      "Jh",
+      "4c",
+      "8c",
+      "Jc",
+      "2s",
+      "4d",
+      "9h",
+      "4d",
+      "6c",
+      "2s",
+      "3s",
+      "5s",
+      "Kd"
+    ]
+  },
+  "physicalTableId": 228000,
+  "timeStamp": "2023-03-27 11:19:29:262",
+  "LastWinners": [
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 2.307452283,
+      "Nickname": "Playernkogifac5b6ja"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 1.615216505,
+      "Nickname": "b222deep152"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 29.753989965,
+      "Nickname": "Vishnu Thaniyath"
+    },
+    {
+      "OperatorID": "10427107",
+      "WinAmount": 34.611784245,
+      "Nickname": "Player97937"
+    },
+    {
+      "OperatorID": "10072001",
+      "WinAmount": 17.1,
+      "Nickname": "Saurabh"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 13.844713698,
+      "Nickname": "Anilk9535"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 22.7602419,
+      "Nickname": "Sunil"
+    },
+    {
+      "OperatorID": "10427121",
+      "WinAmount": 6.922356849,
+      "Nickname": "Player52453"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 54.65018565,
+      "Nickname": "Ram654"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player151525"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 11.537261415,
+      "Nickname": "Player97756"
+    },
+    {
+      "OperatorID": "10340001",
+      "WinAmount": 182.1672855,
+      "Nickname": "Player7412335"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player164305"
+    },
+    {
+      "OperatorID": "10314046",
+      "WinAmount": 6.922356849,
+      "Nickname": "naveenk123"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 182.1672855,
+      "Nickname": "channu98"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 16.152165981,
+      "Nickname": "Player167734"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 1.82167275,
+      "Nickname": "BFT2:1538761"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 11.38012095,
+      "Nickname": "Kuljeetsingh"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 9.229809132,
+      "Nickname": "seenuseenu"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "6361885606"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.4334571,
+      "Nickname": "Renukappa143"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "sunilsunil"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 18.21672855,
+      "Nickname": "Ram"
+    },
+    {
+      "OperatorID": "10427103",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player105971"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player168882"
+    },
+    {
+      "OperatorID": "10314046",
+      "WinAmount": 13.844713698,
+      "Nickname": "1022abhay"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 9.229809132,
+      "Nickname": "Chamdan"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.459618264,
+      "Nickname": "JAGADEESHA_T"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player164181"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 161.52165981,
+      "Nickname": "DEEPAK1105"
+    },
+    {
+      "OperatorID": "10314016",
+      "WinAmount": 11.537261415,
+      "Nickname": "pradeep193784"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 46.14904566,
+      "Nickname": "rkpnkj1985"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 2.307452283,
+      "Nickname": "shilpap"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 9.229809132,
+      "Nickname": "Jagadish_s"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 9.229809132,
+      "Nickname": "Manju@0909"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "girigiri1122"
+    },
+    {
+      "OperatorID": "10582001",
+      "WinAmount": 72.8669142,
+      "Nickname": "Player92af1fef-e8a0-46ba-ad74-53d1de3ce505"
+    },
+    {
+      "OperatorID": "10427103",
+      "WinAmount": 4.614904566,
+      "Nickname": "Player160987"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 2.307452283,
+      "Nickname": "anandhasanandha"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 4.614904566,
+      "Nickname": "Selva_durai"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Ramesha_g"
+    },
+    {
+      "OperatorID": "10304002",
+      "WinAmount": 2.307452283,
+      "Nickname": "NAGARAJA NS"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 4.614904566,
+      "Nickname": "2096_mvp_877577182"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 2.307452283,
+      "Nickname": "JASRAJ SINGH"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 230.7452283,
+      "Nickname": "Playert4tjfxl6pn63e"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 92.29809132,
+      "Nickname": "Ragasai"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 20.767070547,
+      "Nickname": "Channppa"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 2.30745215,
+      "Nickname": "BFT2:1696301"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 9.108364275,
+      "Nickname": "2096_mvp_475559385"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 50.763950226,
+      "Nickname": "Sabir"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 7.207409935,
+      "Nickname": "Pushkar"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.230745215,
+      "Nickname": "s51b9deba401"
+    },
+    {
+      "OperatorID": "10563001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player43128"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 4.614904566,
+      "Nickname": "akhtarhusain"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player100311"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "varunvaru"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.4334571,
+      "Nickname": "Karthik_k_m"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 46.14904566,
+      "Nickname": "Player141634"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 4.614904566,
+      "Nickname": "Player166244"
+    },
+    {
+      "OperatorID": "10427103",
+      "WinAmount": 36.4334571,
+      "Nickname": "Player11413"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "daulathkhankhan"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 61.815432213,
+      "Nickname": "77nagesh4862"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 72.8669142,
+      "Nickname": "Playerycaq3fzmmryvg"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 16.152165981,
+      "Nickname": "Praveenas"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 29.75398825,
+      "Nickname": "chinnu22"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player155539"
+    },
+    {
+      "OperatorID": "10427107",
+      "WinAmount": 2.307452283,
+      "Nickname": "Player114442"
+    },
+    {
+      "OperatorID": "10287100",
+      "WinAmount": 13.43388502,
+      "Nickname": "cg_8244006"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.4334571,
+      "Nickname": "Anil_kumar_Pradhan"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 6.922356849,
+      "Nickname": "S7Shankar923"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 11.537261415,
+      "Nickname": "Divakar.s"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "gadigayyabhandari"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 109.3003713,
+      "Nickname": "Brsufiyan423"
+    },
+    {
+      "OperatorID": "10328001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player1414-88eb0828074501a0320d05bfINR"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 115.37261415,
+      "Nickname": "Player106629"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 18.21672855,
+      "Nickname": "2096_mvp_821380179"
+    },
+    {
+      "OperatorID": "10328001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player1599-MABU886840787I"
+    },
+    {
+      "OperatorID": "10670001",
+      "WinAmount": 6.922356849,
+      "Nickname": "33CP870113"
+    },
+    {
+      "OperatorID": "10314046",
+      "WinAmount": 13.844713698,
+      "Nickname": "aaurathakare"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 2.307452283,
+      "Nickname": "Playerndm7l4rg4pvly"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player52825"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 16.152165981,
+      "Nickname": "Player168724"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 1275.1709985,
+      "Nickname": "Suryaking"
+    },
+    {
+      "OperatorID": "10427103",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player297692"
+    },
+    {
+      "OperatorID": "10304002",
+      "WinAmount": 2.307452283,
+      "Nickname": "Venkat.004"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 2.307452283,
+      "Nickname": "Gangadhar11"
+    },
+    {
+      "OperatorID": "10134024",
+      "WinAmount": 4.614904566,
+      "Nickname": "46651509"
+    },
+    {
+      "OperatorID": "10582001",
+      "WinAmount": 8.0760829905,
+      "Nickname": "Player92b035fa-07b8-4be1-93e7-5750c6e02c6f"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Nasreenhemanth"
+    },
+    {
+      "OperatorID": "10314016",
+      "WinAmount": 47.970718515,
+      "Nickname": "aslam206288"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 11.537261415,
+      "Nickname": "171venu1249"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 11.537261415,
+      "Nickname": "Abhishek_h_c"
+    },
+    {
+      "OperatorID": "10328001",
+      "WinAmount": 1.805251655,
+      "Nickname": "Player2413-8ca7082907b701b0097201deBDT"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.692235645,
+      "Nickname": "bv856keshava"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 13.844713698,
+      "Nickname": "Kasim M"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 11.537261415,
+      "Nickname": "nagarajnagu"
+    },
+    {
+      "OperatorID": "10314016",
+      "WinAmount": 4.614904566,
+      "Nickname": "Rahul247261"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 6.922356849,
+      "Nickname": "channabasayyameetayyanavar"
+    },
+    {
+      "OperatorID": "10582001",
+      "WinAmount": 4.614904566,
+      "Nickname": "Player92af1c1d-9291-4074-be6e-f307683e37ee"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player71497"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 4.614904566,
+      "Nickname": "basavarajtaanasi"
+    },
+    {
+      "OperatorID": "10427121",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player47042"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 2.307452283,
+      "Nickname": "Playerdvvvijymkisec"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 149.984398395,
+      "Nickname": "Player94095"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 6.922356849,
+      "Nickname": "Chandrakantm"
+    },
+    {
+      "OperatorID": "10582001",
+      "WinAmount": 1.1537261415,
+      "Nickname": "Player663495ea-6c89-4b10-a5bf-c2c157f778d4"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 4.614904566,
+      "Nickname": "Timmegowada"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 20.767070547,
+      "Nickname": "Vijay1988"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 36.4334571,
+      "Nickname": "Player97356"
+    },
+    {
+      "OperatorID": "20003421",
+      "WinAmount": 54.65018565,
+      "Nickname": "002gp652682"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.230745215,
+      "Nickname": "14suji811"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 9.229809132,
+      "Nickname": "Player64364"
+    },
+    {
+      "OperatorID": "20003389",
+      "WinAmount": 6.922356849,
+      "Nickname": "154smady1983"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 2.307452283,
+      "Nickname": "swamymr"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 23.07452283,
+      "Nickname": "SIFATRL"
+    },
+    {
+      "OperatorID": "10340001",
+      "WinAmount": 11.537261415,
+      "Nickname": "Player20291889"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 145.7338284,
+      "Nickname": "Player5509"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 7.207409935,
+      "Nickname": "prahlad"
+    },
+    {
+      "OperatorID": "10633005",
+      "WinAmount": 59.993759358,
+      "Nickname": "Kiranking"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Raghavendra_k_j"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 1.441481987,
+      "Nickname": "Chandra"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 18.21672855,
+      "Nickname": "cbsiva5594"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.46149043,
+      "Nickname": "bb7narayan0300"
+    },
+    {
+      "OperatorID": "10319001",
+      "WinAmount": 4.1294659725,
+      "Nickname": "Ntombizodwa Violet"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 72.8669142,
+      "Nickname": "sharanuhallikeri"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.676346814,
+      "Nickname": "Jaggu8464"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 11.537261415,
+      "Nickname": "Somu143"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 46.14904566,
+      "Nickname": "narayanjoshi"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 123.630864426,
+      "Nickname": "Sunil0095"
+    },
+    {
+      "OperatorID": "10437007",
+      "WinAmount": 182.1672855,
+      "Nickname": "2_d_ManojPandey"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 9.108364275,
+      "Nickname": "2096_mvp_871964978"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "babubabu"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.230745215,
+      "Nickname": "jp228sd"
+    },
+    {
+      "OperatorID": "10024467",
+      "WinAmount": 4.614904566,
+      "Nickname": "Player36734870"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 2.307452283,
+      "Nickname": "Playervbtbfa76uclgk"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Venkata_narayana"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Nanda_B"
+    },
+    {
+      "OperatorID": "10582001",
+      "WinAmount": 1.1537261415,
+      "Nickname": "Playerc06de577-8c69-43a9-993d-25899ed1c55f"
+    },
+    {
+      "OperatorID": "10427107",
+      "WinAmount": 6.922356849,
+      "Nickname": "Player57968"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 33.0937235325,
+      "Nickname": "2096_mvp_523025033"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 6.922356849,
+      "Nickname": "krmanu"
+    },
+    {
+      "OperatorID": "20003389",
+      "WinAmount": 4.614904566,
+      "Nickname": "154sketaki1979"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 45.663266232,
+      "Nickname": "Manjunath_j"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 13.844713698,
+      "Nickname": "Player169239"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 1.82167275,
+      "Nickname": "bablu427bf"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.230745215,
+      "Nickname": "manoj585b"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 12.973337883,
+      "Nickname": "Mani"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 72.8669142,
+      "Nickname": "jamsheer jamsheer"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 299.96879679,
+      "Nickname": "Player73512"
+    },
+    {
+      "OperatorID": "10427101",
+      "WinAmount": 4.614904566,
+      "Nickname": "Naik"
+    },
+    {
+      "OperatorID": "10134018",
+      "WinAmount": 2.307452283,
+      "Nickname": "2096_mvp_966041006"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 4.614904566,
+      "Nickname": "lingarajaas"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Dharmaraj_H"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.4334571,
+      "Nickname": "Shivu@2408"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 36.4334571,
+      "Nickname": "9663647419"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "9986312429919@paytm"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 18.21672855,
+      "Nickname": "Shiva_Kumar"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 64.122884496,
+      "Nickname": "Nsunravi"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 54.65018565,
+      "Nickname": "Player62939"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 9.229809132,
+      "Nickname": "Playerisngx7qughsdo"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 54.65018565,
+      "Nickname": "Nfo190"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 6.922356849,
+      "Nickname": "cb401raj"
+    },
+    {
+      "OperatorID": "10314016",
+      "WinAmount": 18.21672855,
+      "Nickname": "Bhimsen199995"
+    },
+    {
+      "OperatorID": "10596005",
+      "WinAmount": 4.614904566,
+      "Nickname": "Playerzvemojr3l4iec"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 569.0060475,
+      "Nickname": "Bakul"
+    },
+    {
+      "OperatorID": "10314030",
+      "WinAmount": 13.844713698,
+      "Nickname": "31Xijmqpgabhi789"
+    },
+    {
+      "OperatorID": "10304001",
+      "WinAmount": 20.767070547,
+      "Nickname": "s345bhuvnesh"
+    },
+    {
+      "OperatorID": "10601006",
+      "WinAmount": 2.307452283,
+      "Nickname": "Player3639"
+    },
+    {
+      "OperatorID": "10427202",
+      "WinAmount": 11.38012095,
+      "Nickname": "Ganesh"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 0.230745215,
+      "Nickname": "ankit982b"
+    },
+    {
+      "OperatorID": "10427103",
+      "WinAmount": 2.307452283,
+      "Nickname": "Player32063"
+    },
+    {
+      "OperatorID": "10003037",
+      "WinAmount": 11.38012095,
+      "Nickname": "Dhanekula  Suneetha"
+    },
+    {
+      "OperatorID": "10437001",
+      "WinAmount": 72.8669142,
+      "Nickname": "Ayanrehnu"
+    },
+    {
+      "OperatorID": "10314016",
+      "WinAmount": 4.614904566,
+      "Nickname": "ashwana247290"
+    },
+    {
+      "OperatorID": "10437005",
+      "WinAmount": 18.21672855,
+      "Nickname": "Player162799"
+    },
+    {
+      "OperatorID": "10484002",
+      "WinAmount": 18.2167275,
+      "Nickname": "allbet2:BD2456_121458"
+    }
+  ],
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "RoundTripStartTime": 1679915969263,
+  "GameResults": {
+    "BaharCards": [
+      "As",
+      "4h",
+      "3d",
+      "2c",
+      "6s",
+      "5s",
+      "8d",
+      "Qh",
+      "Jh",
+      "Jd",
+      "7h",
+      "2d",
+      "3c",
+      "5c",
+      "Kh"
+    ],
+    "RoundId": 1884894560,
+    "JokerCard": "Kd",
+    "WinningHand": "Bahar",
+    "AndarCards": [
+      "7s",
+      "9s",
+      "Js",
+      "Ac",
+      "9h",
+      "9c",
+      "4c",
+      "Ah",
+      "Qc",
+      "6h",
+      "3s",
+      "8s",
+      "8h",
+      "Qs"
+    ]
+  },
+  "roundId": 1884894560,
+  "WinAmount": 0,
+  "MessageType": "GAME_RESULT"
+}

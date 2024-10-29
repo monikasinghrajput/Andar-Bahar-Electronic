@@ -1,0 +1,35 @@
+# Assets Requests
+GET     /assets/*file                     controllers.AppController.versioned(path="/public", file: Asset)
+
+
+# Game Server
+GET     /                                 controllers.Default.redirect(to = "/lobby")
+GET     /lobby                            controllers.andarbahar.AndarBaharSSeaterController.sendPlayerPage()
+GET     /lobby/cage                       controllers.AppController.sendCageClientPage()
+
+# Web Socket
++ nocsrf
+GET     /lobby/wsclient/cage                 controllers.AppController.cage
+
+
+# AndarBahar Stadium Seater Table Service
+GET     /andarbahar/player                         controllers.andarbahar.AndarBaharSSeaterController.sendPlayerPage()
+GET     /andarbahar/admin                          controllers.andarbahar.AndarBaharSSeaterController.sendAdminPage()
+GET     /andarbahar/topper                         controllers.andarbahar.AndarBaharSSeaterController.sendTopperPage()
+
+
+GET     /api/andarbahar/getInitialData                 controllers.andarbahar.AndarBaharSSeaterController.sendInitialDataJson()
+GET     /api/andarbahar/authenticate                   controllers.andarbahar.AndarBaharSSeaterController.sendAuthenticateJson()
+GET     /api/andarbahar/getStreams                     controllers.andarbahar.AndarBaharSSeaterController.sendStreamsJson()
+GET     /api/andarbahar/fetchPayouts                     controllers.andarbahar.AndarBaharSSeaterController.sendPayoutJson()
+
+POST    /api/andarbahar/beetek/card                    controllers.andarbahar.AndarBaharSSeaterController.handleCardDrawn()
+
+# Web Socket
++ nocsrf
+GET     /andarbahar/wsclient/player                 controllers.andarbahar.AndarBaharSSeaterController.player
++ nocsrf
+GET     /andarbahar/wsclient/topper                 controllers.andarbahar.AndarBaharSSeaterController.topper
++ nocsrf
+GET     /andarbahar/wsclient/admin                  controllers.andarbahar.AndarBaharSSeaterController.admin
+

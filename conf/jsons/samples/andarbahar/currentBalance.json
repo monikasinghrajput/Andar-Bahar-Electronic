@@ -1,0 +1,15 @@
+{
+  "TableId": "228000",
+  "gameType": "AndarBahar",
+  "SessionCurrency": "USD",
+  "destination": "player",
+  "physicalTableId": 228000,
+  "timeStamp": "2023-03-27 11:28:00:509",
+  "balance": 6.1,
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "RoundTripStartTime": 1679916480509,
+  "roundId": 1884924689,
+  "MessageType": "CURRENT_BALANCE",
+  "MessageID": "2021"
+}

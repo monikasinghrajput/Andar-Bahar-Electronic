@@ -1,0 +1,16 @@
+{
+  "TableId": "228000",
+  "gameType": "AndarBahar",
+  "CardHand": "Joker",
+  "CardName": "Kd",
+  "CardValue": 10,
+  "CardHandValue": 0,
+  "destination": "player",
+  "physicalTableId": 228000,
+  "timeStamp": "2023-03-27 11:18:19:366",
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "RoundTripStartTime": 1679915899366,
+  "roundId": 1884894560,
+  "MessageType": "Card"
+}

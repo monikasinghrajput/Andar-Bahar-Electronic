@@ -1,0 +1,53 @@
+{
+  "MessageType": "InitialData",
+  "TableId": "228000",
+  "gameType": "AndarBahar",
+  "destination": "player",
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "physicalTableId": 228000,
+  "timeStamp": "2023-03-27 11:18:14:770",
+  "RoundTripStartTime": 1679915894771,
+  "roundId": 1884894560,
+
+  "PlayerBetOfThisRound": {
+    "RegularBets": {},
+    "SideBets": {}
+  },
+  "JokerCard": "shuffle",
+  "BaharCards": [],
+  "AndarCards": [],
+  "LastWinners": [],
+
+
+  "Statistics": {
+    "JokerStatistics": {
+      "Bahar": 57.14,
+      "Andar": 42.86
+    },
+    "winPercentages": {
+      "Bahar": 53,
+      "Andar": 47
+    },
+    "lastWinners": [
+      "Bahar",
+      "Andar",
+      "Andar",
+      "Bahar",
+      "Bahar",
+      "Andar"
+    ],
+    "lastJokers": [
+      "7d",
+      "Jh",
+      "Ac",
+      "7s",
+      "5s",
+      "5s"
+    ]
+  },
+  "regularBets": [],
+  "sideBets": [],
+  "balance": 7.1,
+  "isOppositeBettingAllowed": false,
+}

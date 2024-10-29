@@ -1,0 +1,22 @@
+package model.ab.data
+
+case class TableBetLimit(Min_Bet: Int = 10,
+                         Max_Bet: Int = 2000,
+                         Min_Bet_2: Int = 10,
+                         Max_Bet_2: Int = 2000,
+                         Min_Group1:Int = 10,
+                         Max_Group1: Int = 500,
+                         Min_Group2:Int = 10,
+                         Max_Group2: Int = 500,
+                         Min_Group3:Int = 10,
+                         Max_Group3: Int = 500,
+                         Min_Group4:Int = 10,
+                         Max_Group4: Int = 500,
+                         Min_Group5:Int = 10,
+                         Max_Group5: Int = 100,
+                         Min_Group6:Int = 10,
+                         Max_Group6: Int = 100,
+                         Min_Group7:Int = 10,
+                         Max_Group7: Int = 100,
+                         Min_Group8:Int = 10,
+                         Max_Group8: Int = 50)

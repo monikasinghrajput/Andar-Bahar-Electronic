@@ -1,0 +1,13 @@
+{
+  "TableId": "228000",
+  "timeStamp": "2023-03-27 11:18:32:399",
+  "gameType": "AndarBahar",
+  "destination": "player",
+  "ClientId": "20000181|91205|228000",
+  "tableId": "228000",
+  "RoundTripStartTime": 1679915912399,
+  "roundId": 1884894560,
+  "MessageType": "NO_MORE_BETS",
+  "MessageID": "0002",
+  "physicalTableId": 228000
+}
